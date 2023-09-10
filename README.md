@@ -14,7 +14,7 @@ Determines the trails and positions of 'n' mobile robots, given their initial po
 <h2> File explanation </h2>
 
 
-<b>Rovers.cpp</b> -> program containing codes
+<b>rovers.h</b> -> program containing library
 
 <b>Test_input.txt</b> -> input file in the given format
 
@@ -26,3 +26,5 @@ Determines the trails and positions of 'n' mobile robots, given their initial po
                         Each robot has its own trail file.
                         each position and orientation is in new line
                         generated/overwritten during execution of the program
+
+<b>roverTrails_test.cpp</b> Test run for the library file
