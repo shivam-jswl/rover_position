@@ -14,7 +14,7 @@ Determines the trails and positions of 'n' mobile robots, given their initial po
 <h2> File explanation </h2>
 
 
-<b>rovers.h</b> -> program containing library
+<b>roverTrails.h</b> -> program containing library
 
 <b>Test_input.txt</b> -> input file in the given format
 
